@@ -1,0 +1,24 @@
+package first;
+
+public class var_ch {
+	
+	public static void main(String[] args)
+	{
+		int kor;
+		
+		String str; 
+		
+		kor = 123; 
+		
+		kor = kor + 8;
+		
+		kor = kor - 50;
+		
+		System.out.println(kor);
+	
+				
+				
+	}
+	
+
+}

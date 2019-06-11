@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ont_m&apos; to &apos;ont2_m&apos;&#x0D;&#x0A;- Original project: &apos;5.20&apos;&#x0D;&#x0A;- Original element: &apos;ont_m&apos;&#x0D;&#x0A;- Renamed element: &apos;ont2_m&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ont_m&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{ont_m.java[ont_m" matchStrategy="1" name="ont2_m" qualified="false" references="true" similarDeclarations="false" stamp="1558334030572" textual="false" version="1.0"/>
+</session>

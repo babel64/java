@@ -1,0 +1,31 @@
+package first;
+
+public class var_ch {
+	
+	public static void main(String[] args)
+	{
+		int abc;
+		
+		String str; 
+		
+		abc = 123; 
+		
+		abc = abc + 8;
+		
+		abc = abc - 50;
+	
+	    abc = abc + 20; 
+	    
+	    str = "ggg";
+	    str = str + "jjj";
+	    		
+	    		
+	    
+		System.out.println(abc);
+	    System.out.println(str);
+				
+				
+	}
+	
+
+}

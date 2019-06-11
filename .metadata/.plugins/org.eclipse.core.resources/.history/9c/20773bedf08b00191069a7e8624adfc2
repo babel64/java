@@ -1,0 +1,14 @@
+import java.util.Calender;
+public class tz {
+
+	public static void main(String[] args) {
+		
+		// Date today=new Date();
+		TimeZone tz=TimeZone.getTimeZone("America/Los_Angeles");
+		Clander today=Calender.getInstance(tz);
+		int ap=today.get(Calender.AM_PM);
+		System.out.println(ap);
+		
+	}
+
+}

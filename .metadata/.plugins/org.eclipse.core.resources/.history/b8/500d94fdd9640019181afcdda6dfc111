@@ -1,0 +1,32 @@
+package first;
+
+public class var_ch {
+	
+	public static void main(String[] args)
+	{
+		int abc;
+		
+		String ghj; 
+		
+		abc = 123; 
+		
+		abc = abc + 8;
+		
+		abc = abc - 50;
+	
+	    abc = abc + 1562; 
+	    
+	    ghj = "ggg";
+	    ghj = ghj + "jjj";
+	    ghj = ghj + "qqqqqqqqqq";
+	    		
+	    		
+	    
+		System.out.println(abc);
+	    System.out.println(ghj);
+				
+				
+	}
+	
+
+}
